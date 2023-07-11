@@ -9,7 +9,8 @@ The repository was created on July, 2023. Over time, this repository will be upd
 Please, read the source code of these scripts before using these tools. 
 
 **You need to know what you're doing.** **Don't be like a script-kiddie!**
-All the credit goes to c4s73r who has originally developed all these tools I have made small changes to all the tools and reuploaded it. 
+
+**All the credit goes to c4s73r who has originally developed all these tools I have made small changes to all the tools and reuploaded it.** 
 
 **ᛝ** 
 -----------------------------------------------------------------------------------------------------------------------------------------
