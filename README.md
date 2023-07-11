@@ -1,17 +1,17 @@
-# NetworkExploitation
+# network-attack-tools
 
 This repository stores tools for conducting network attacks. 
 
 **The author has nothing to do with those who will use these tools for personal purposes to destroy other people's computer networks. The tools are presented for training purposes to help engineers improve the security of their network.**
 
-The repository was created on January 8, 2022. Over time, this repository will be updated and filled with more tools.
+The repository was created on July, 2023. Over time, this repository will be updated and filled with more tools.
 
 Please, read the source code of these scripts before using these tools. 
 
 **You need to know what you're doing.** **Don't be like a script-kiddie!**
+All the credit goes to c4s73r who has originally developed all these tools I have made small changes to all the tools and reuploaded it. 
 
 **ᛝ** 
-
 -----------------------------------------------------------------------------------------------------------------------------------------
 **ARPScanner.py** - This scanner is designed to detect "live" hosts on the network. ARP scanning is quite noisy, keep in mind.
 
@@ -32,5 +32,3 @@ Please, read the source code of these scripts before using these tools.
 **TCPSYNFlooding.py** - This script is designed to carry out a TCP-SYN Flooding attack. The script initiates sending a huge number of TCP SYN segments.
 
 **VRRPSpoofing.py** - This tool is designed to attack the VRRP (Virtual Router Redundancy Protocol) protocol. With this script, you will become the **master VRRP router**. But keep in mind that this script will work if VRRP is configured on the target routers without any authentication. In the future, the script will be updated, you will be able to specify these authentication strings.
-
-
